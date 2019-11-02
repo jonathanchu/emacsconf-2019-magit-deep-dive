@@ -1,0 +1,3 @@
+Hiya! These are my “slides” for my EmacsConf 2019 Magit Deep Dive talk.
+
+I used [[https://github.com/rlister/org-present][org-present]] and you can find presentation specific configuration and settings for both Magit and org-present in my Emacs config [[https://github.com/jonathanchu/dotemacs][here]].
